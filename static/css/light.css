@@ -1,0 +1,117 @@
+body {
+  margin: auto;
+  width: 60%;
+  background-color: #F7F3EE;
+  color: #E8A5A8;
+  font-family: serif;
+}
+
+p, li {
+  color: #666666;
+}
+
+.title {
+  text-align: center;
+  margin: 0.5em 2% 0.3em 2%;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#descr, #date {
+  text-align: center;
+  color: #767573;
+  word-wrap: break-word;
+  font-style: italic;
+}
+
+#back {
+  text-align: center;
+}
+
+hr {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  height: 1px;
+  background-color: #9B9898;
+  color: #2D2F30;
+}
+
+p.nav {
+  text-align: center;
+  margin: 0.5em 2% 0.5em 2%;
+  font-size: .95em;
+  font-style: italic;
+}
+
+a, a:visited, a:active {
+  color: #7EA2BD;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: .9em;
+  margin-bottom: .9em;
+  border-collapse: collapse;
+}
+
+th {
+  color: #525354;
+  padding: 0.1em 0.5em;
+  font-family: "Iosevka";
+  font-weight: normal;
+  text-align: center;
+}
+
+td {
+  padding: .3em 1em;
+}
+
+td a {
+  font-size: 0.96em;
+}
+
+td samp {
+  font-size: 1.1em;
+}
+
+tr:nth-child(odd) {
+  background: #F0EAE3;
+}
+
+tr td {
+  color: #818485;
+}
+
+tr:hover {
+  background-color: #E2DCD4;
+}
+
+div.content {
+  margin: auto;
+  width: 95%;
+  padding: 5px;
+  line-height: 1.5em;
+}
+
+p.footer {
+  font-size: 0.9em;
+  font-family: "Iosevka";
+  background: transparent;
+  text-align: center;
+}
+
+img {
+  height: 65%;
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
