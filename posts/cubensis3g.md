@@ -40,5 +40,5 @@ I should add that I'm not a spiritual individual, so I didn't feel anything divi
 - **01:47:** What did I do wrong to you? Physical processes keep me grounded in reality.
 - **01:53:** Toussaint L'ouverture.
 - **02:04:** Thinking about Aguirre, Der Zorn Gottes.
-- **02:30:** Simulated conversations with "S" in which I was not myself, I was not Pedro from São Paulo, I was Pedro from Porto Alegre, cold, but who never lived in Porto Alegre. Pedro looks at himself in the mirror. Pedro kisses the microphone and almost commits The Great Death.
+- **02:30:** Simulated conversations in which I was not myself, I was not Pedro from São Paulo, I was Pedro from Porto Alegre, cold, but who never lived in Porto Alegre. Pedro looks at himself in the mirror. Pedro kisses the microphone and almost commits The Great Death.
 - **04:31:** Still somewhat "zoned out" and with slight feelings of depersonalization, but I consider the strongest part over. It doesn't even feel like almost 5 hours have passed. `sudo poweroff`
