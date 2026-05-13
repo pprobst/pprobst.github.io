@@ -5,7 +5,7 @@ date: someday somewhere
 
 My name is Pedro Probst, in some places known as `Rodka`, `Rodion`, `Rodya`, or just `Rod`.
 
-I currently live in the city of Santos with my girlfriend, but I am a _gaúcho_ -- born and raised in Rio Grande do Sul, Brazil's southernmost state.
+I currently live in the city of Santos with my fiancée, but I am a _gaúcho_ -- born and raised in Rio Grande do Sul, Brazil's southernmost state.
 
 I deal with the little spirits inside the computer, albeit with little control
 over them. In other words... I do stuff with software.
@@ -69,7 +69,7 @@ I recognize that life is mostly full of hardships and sadness, but instead of re
 I heavily tend for physicalism. I believe that souls don't exist, and that magic/mysticism is mostly a very elaborate LARP. We humans are probably just very complex organic machines, and way less important that we might think.
 
 ## Politics
-I’m generally what one might consider a leftist, and depending on who you're talking with, center-left. Most importantly, I consider myself a progressive liberal. I previously called myself a
+I'm on the center-left. I previously called myself a
 "libertarian", and for some time I was really to the far-right. All in all, nowadays I take pride in not blindly following a leftoid/rightoid ideology.
 
 Not that it matters much since people are seemingly braindead: some leftists take me for a fascist, while rightists think I’m a [degenerate that belongs on a cross](https://www.youtube.com/watch?v=KAIQ68snVMw) (they are mostly right about this one).
